@@ -1,2 +1,6 @@
 hello from git version 1
+ HEAD
 hello from git version 2
+
+hello from local version 2
+ 2b90f78 (commit on local repo)
